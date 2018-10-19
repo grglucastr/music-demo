@@ -1,0 +1,7 @@
+reference
+https://spring.io/guides/gs/spring-boot-docker/
+https://www.callicoder.com/spring-boot-docker-example/
+https://spring.io/guides/gs/gradle/
+https://medium.com/the-code-review/top-10-docker-commands-you-cant-live-without-54fb6377f481
+https://stackoverflow.com/questions/35000484/how-to-tag-a-docker-container
+https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
